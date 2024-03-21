@@ -1,2 +1,2 @@
 User-agent: * Allow: /
-Sitemap: 
+Sitemap: onlinemagasin.fashionablytired.com/sitemap.xml
